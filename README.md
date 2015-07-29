@@ -16,5 +16,5 @@ CMD: npm install gulp -g
  
 4) gulp build
 
- we can build a product by it. you can find it in dist folder.
+ we can build a product by it. you can find it in www folder.
  
