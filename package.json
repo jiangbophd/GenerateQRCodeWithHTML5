@@ -1,0 +1,29 @@
+{
+  "name": "GenerateQRCode",
+  "version": "0.0.1",
+  "author":"Richard Jiang",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "angular-io-barcode": "^1.0.1",
+    "angular-route": "^1.4.3",
+    "angular-router": "0.0.2",
+    "qrcode-generator": "^1.0.0",
+    "angular-qrcode": "^6.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "browserify": "^11.0.0",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-cordova-build-ios": "^1.0.0",
+    "gulp-cordova-create": "^1.0.1",
+    "gulp-htmlmin": "^1.1.3",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-open": "^1.0.0",
+    "gulp-shell": "^0.4.2",
+    "gulp-uglify": "^1.2.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

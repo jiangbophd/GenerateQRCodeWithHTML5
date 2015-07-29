@@ -1,0 +1,7 @@
+{
+  "name": "angularQrcode",
+  "version": "1.0.0",
+  "dependencies": {
+    "qrcode-generator": "git://github.com/monospaced/bower-qrcode-generator.git#0.0.2"
+  }
+}
